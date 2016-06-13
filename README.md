@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/spring-projects/spring-framework.svg?branch=master)](https://travis-ci.org/spring-projects/spring-framework)
+
 ## Spring Framework
 The Spring Framework provides a comprehensive programming and configuration
 model for modern Java-based enterprise applications -- on any kind of deployment
